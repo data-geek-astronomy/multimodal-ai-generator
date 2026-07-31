@@ -7,3 +7,5 @@ outputs/*
 .DS_Store
 *.egg-info/
 .ipynb_checkpoints/
+.pytest_cache/
+
